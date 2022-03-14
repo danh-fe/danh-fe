@@ -34,9 +34,7 @@
 ## 📊 My Github Stats
   <br/>
     <a href="https://github.com/danh-fe"><img alt="Danh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danh-fe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/danh-fe/danh-fe"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danh-fe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 <br/>
@@ -44,7 +42,6 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "www.linkedin.com/in/congdanh-fe"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/cdanh1205/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
