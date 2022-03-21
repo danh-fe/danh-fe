@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ReactJs**
 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/danh-fe)**
